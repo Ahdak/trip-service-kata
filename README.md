@@ -9,4 +9,4 @@ Testing legacy: Hard-wired dependencies
 * __Working__ : working branch
 
 ## Blog
-See [my blog](https://ahdak.github.io/blog/posts/)
+See [my blog](https://ahdak.github.io/blog/tdd-hard-wired-dependencies/)
